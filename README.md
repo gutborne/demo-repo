@@ -2,4 +2,4 @@
 Some text description!
 
 ## subhead
-Some other description!
+Some other description.
